@@ -1,6 +1,6 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+Launch index.html in your browser of choice.
 
-for self-checking their submission.
+Use arrow keys (up, down, left, right) to move. Avoid all bugs. Game is won when player reaches the water. Player position will reset upon collision with enemy bug or upon reaching the water row.
