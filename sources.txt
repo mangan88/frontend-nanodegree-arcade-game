@@ -1,0 +1,4 @@
+Bounding Box Collision ideas from http://devmag.org.za/2009/04/13/basic-collision-detection-in-2d-part-1/
+
+Code style considerations from fellow classmate HiddenEnigma, https://github.com/hiddenenigma/Frogger_Clone, from thread http://discussions.udacity.com/t/trouble-with-collision-detection/6870
+
